@@ -1,0 +1,287 @@
+
+
+
+.index_account{
+  position: absolute;
+  right: 40px;
+  top: 30px;
+
+}
+
+.index_account a img{
+  width: 80px;
+  height: 80px;
+}
+
+.index_btm_lgs{
+  position: absolute;
+  bottom: 10px;
+  right: 40px;
+}
+.index_btm_lgs img{
+  margin-right: 20px;
+  width: 80px;
+  height: 80px;
+}
+.index_center{
+  height: 10px;
+	width:100%;
+  margin: 15% auto;
+  text-align: center;
+}
+.index_center h1{
+  font-size: 140px;
+  color: white;
+  font-style: italic;
+  font-weight: 100;
+  text-shadow: #000 2px 0 0, #000 0 2px 0, #000 -1px 0 0, #000 0 -1px 0;
+}
+.index_center h2{
+  color: white;
+  font-style: oblique;
+  font-size: 40px;
+  font-weight: 100;
+  
+}
+.p2_block{
+  width: 100%;
+  height: 150px;
+}
+.p2_block .left{
+  float: left;
+  margin-left: 15%;
+  width: 200px;
+  height: 150px;
+
+}
+.p2_block .left img{
+  width: 150px;
+  height: 150px;
+}
+.p2_block .right{
+  margin-left: 40%;
+  width: 800px;
+  height: 150px;
+
+}
+.p2_block .right{
+  text-align: left;
+}
+.p2_block .right h1{
+  font-size: 30px;
+  font-style: italic;
+}
+.p2_block .right h2{
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 100;
+}
+.p2_block .right h2 img{
+  width: 20px;
+  height: 20px;
+}
+.index_btn{
+  width:300px;
+  height:auto;
+  margin: 0 auto;
+  
+}
+.index_btn button{
+  width: 300px;
+  height: 50px;
+  line-height: 30px;
+  font-size: 30px;
+  border-radius: 50px;
+  position: absolute;
+  bottom: 35%;
+  
+}
+.index_btn button a{
+  text-decoration: none;
+}
+/*CalorieCheckin Page*/
+
+.p2_index_center{
+
+	width:60%;
+  margin: 0 auto;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.container {
+  position: absolute;
+  top: 100px;
+  left:20%;
+  height: 70px;
+  width: 80%;
+  }
+  .parent {
+  position: relative;
+  }
+  .search {
+  width: 60%;
+  height: 50px;
+  border-radius: 18px;
+  outline: none;
+  border: 2px solid #ccc;
+  padding-left: 20px;
+  position: absolute;
+  }
+  .btn {
+  height: 35px;
+  width: 35px;
+  position: absolute;
+  background: url("images/topbar.png") no-repeat -2px -99px;
+  top: 6px;
+  left: 285px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  }
+.p2_menu{
+  position: absolute;
+  left: 40px;
+  top: 20px;
+}
+.p2_menu img{
+  width:70px;
+  height: 70px;
+}
+.p2_backward{
+  position: absolute;
+  top: 50%;
+  left: 15%;
+}
+.p2_backward img{
+  width:70px;
+  height: 70px;
+}
+.p2_forward{
+  position: absolute;
+  top: 50%;
+  right: 15%;
+}
+.p2_forward img{
+  width:70px;
+  height: 70px;
+}
+.explore{
+  position: absolute;
+  left: 40px;
+  bottom: 10px;
+}
+.explore button{
+  width: 200px;
+  height: 40px;
+  background-color: #32936F;
+  color: white;
+  font-size: 18px;
+  border-radius: 10px;
+}
+.explore button img{
+  width:25px;
+  height: 25px;
+}
+.explore button:hover{
+  color: red;
+  border: solid red 2px;
+}
+/*p3*/
+.p3_backward{
+  position: absolute;
+  top: 50%;
+  left: 5%;
+}
+.p3_backward img{
+  width:70px;
+  height: 70px;
+}
+.p3_forward{
+  position: absolute;
+  top: 50%;
+  right: 5%;
+}
+.p3_forward img{
+  width:70px;
+  height: 70px;
+}
+.p3_container {
+  position: absolute;
+  top: 100px;
+  left:5%;
+  height: 70px;
+  width: 80%;
+  }
+  .p3_parent {
+  position: relative;
+  }
+  .p3_search {
+  width: 50%;
+  height: 50px;
+  border-radius: 18px;
+  outline: none;
+  border: 2px solid #ccc;
+  padding-left: 20px;
+  position: absolute;
+  }
+  .p3_btn {
+  height: 35px;
+  width: 35px;
+  position: absolute;
+  background: url("images/topbar.png") no-repeat -2px -99px;
+  top: 6px;
+  left: 285px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  }
+  .p3_index_center{
+    height: 1100px;
+    width:80%;
+    margin: 10% auto;
+    text-align: center;
+  }
+
+  .p3_index_center .p3_index_line{
+    width: 100%;
+    height: 400px;
+    margin-top: 40px;
+  }
+  .p3_index_center .p3_index_line .p3_index_block img{
+    width: 300px;
+    height: 300px;
+  }
+  .p3_index_center .p3_index_line .p3_index_block h1{
+    font-size: 25px;
+    line-height: 5px;
+    text-align: left;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-weight: 100;
+  }
+  .p3_index_center .p3_index_line .p3_index_block h1 span{
+    color: red;
+  }
+  .p3_index_center .p3_index_line .p3_index_block h2{
+    font-size: 15px;
+    font-style: normal;
+    text-align: left;
+    color: gray;
+    line-height: 5px;
+  }
+  .p3_cart{
+    position: absolute;
+    right: 150px;
+    top: 20px;
+  }
+  .p3_cart a img{
+    width: 100px;
+    height: 100px;
+  }
+  .p3_ahover{
+    color: white;
+    text\-decoration: none;
+  }
+  button:hover{
+    color: red 2px;
+  }
